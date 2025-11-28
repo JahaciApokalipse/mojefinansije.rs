@@ -8,6 +8,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Winner](https://img.shields.io/badge/FON%20HZS%20Hackathon-1st%20Place%20Winner-gold?style=flat-square&logo=trophy)](https://github.com/dimitrijevic-dev/hzs)
 
+![Demo](demo.png)
+
 **Award-winning financial literacy education platform that revolutionizes financial learning through AI-powered personalization, gamified progression, and comprehensive educational content.**
 
 ## 🌟 Why We Won
